@@ -1,0 +1,12 @@
+C:\Users\Chris\source\repos\PigLatin\PigLatin\bin\Debug\PigLatin.exe.config
+C:\Users\Chris\source\repos\PigLatin\PigLatin\bin\Debug\PigLatin.exe
+C:\Users\Chris\source\repos\PigLatin\PigLatin\bin\Debug\PigLatin.pdb
+C:\Users\Chris\source\repos\PigLatin\PigLatin\bin\Debug\PigLatin.xml
+C:\Users\Chris\source\repos\PigLatin\PigLatin\obj\Debug\PigLatin.vbprojResolveAssemblyReference.cache
+C:\Users\Chris\source\repos\PigLatin\PigLatin\obj\Debug\PigLatin.FrmMain.resources
+C:\Users\Chris\source\repos\PigLatin\PigLatin\obj\Debug\PigLatin.Resources.resources
+C:\Users\Chris\source\repos\PigLatin\PigLatin\obj\Debug\PigLatin.vbproj.GenerateResource.Cache
+C:\Users\Chris\source\repos\PigLatin\PigLatin\obj\Debug\PigLatin.vbproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\PigLatin\PigLatin\obj\Debug\PigLatin.exe
+C:\Users\Chris\source\repos\PigLatin\PigLatin\obj\Debug\PigLatin.xml
+C:\Users\Chris\source\repos\PigLatin\PigLatin\obj\Debug\PigLatin.pdb
